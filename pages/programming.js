@@ -14,7 +14,7 @@ export default function Posts() {
       <Head>
         <title>Posts &mdash; Programming</title>
       </Head>
-      <Container>
+      {/* <Container>
         <SectionHeader>Programming</SectionHeader>
         {!posts.length ? (
           <div className="text-center py-20">
@@ -30,7 +30,7 @@ export default function Posts() {
             ))}
           </div>
         )}
-      </Container>
+      </Container> */}
     </Layout>
   );
 }

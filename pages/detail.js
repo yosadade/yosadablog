@@ -6,10 +6,8 @@ import PostAuthor from '@components/PostAuthor';
 import Head from 'next/head';
 
 export default function Detail() {
-  const getInitialProps = ({query}) => {
-    console.log(query)
-    return 
-  }
+  const router = useRouter()
+  console.log(router);
   return (
     <Layout>
       <Head>
@@ -18,27 +16,26 @@ export default function Detail() {
       <Container>
         <div className="md:w-6/12 w-full mx-auto flex items-center flex-col">
           <PostMetaTitle
-            category="UI Design"
-            date="July 2, 2021"
-            title="Understanding color theory: the color wheel and finding complementary colors"
+            category="Wisata"
+            date="July 22, 2021"
+            title="Tempat favorit menikmati gemerlap malam Jogja"
             center
           />
           <PostAuthor
-            authorName="Leslie Alexander"
+            authorName="Yosada Dede"
             authorJob="UI Designer"
             authorAvatar="/author-1.png"
           />
         </div>
         <div className="md:w-10/12 w-full mx-auto my-10">
-          <img src="/detail-image.png" className="w-full rounded-lg" />
+          <img src="/thumbnail-1.jpg" className="w-full rounded-lg" />
         </div>
         <div className="md:w-8/12 w-full mx-auto leading-relaxed">
-          <p className="mb-4">Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding.</p>
-          <p className="mb-4">Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.</p>
-          <p className="mb-4">Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.</p>
-          <p className="mb-4">Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.</p>
-          <p className="mb-4">Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.</p>
-          <p className="mb-4">Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.</p>
+          <p className="mb-4">Bukit piyungan berada di Kecamatan Piyungan, Kabupaten Bantul kurang lebih 30 menit dari kota Jogja.</p>
+          <p className="mb-4">Beberapa pekan sekali, biasa saya dan rekan - rekan menghabiskan malam disini untuk pelepas penat setelah sepekan bekerja untuk menikmati pemandangan memukau dari kota Jogja yang penuh dengan lampu-lampu yang bersinar di setiapnya dari ketinggian, akan menjadi lebih terasa sempurna lagi ketika ditemani dengan segelas kopi, kudapan dan tawa canda bersama.</p>
+          <p className="mb-4">Ini juga bisa dijadikan sebagai sarana tadabur alam untuk lebih mengenal, menghayati, merenungi kebesaran Allah, sehingga dapat menghadirkan rasa syukur atas karuania-Nya serta dapat membantu menjaga melestarikan keberadaannya.</p>
+          <p className="mb-4">Sengaja kami memilih hari - hari diluar weekend untuk menghindari keramaian, biar lebih khidmat dan biar lebih santai ya kan. Disini banyak tersedia cafe bernuansa outdoor, tenang harganya cukup terjangkau kok.</p>
+          <p className="mb-4">Bagi teman - teman yang membaca ini, kalian harus coba kesini. Melewatkan malam dengan pemandangan malam kota Jogja sambil menikmati berbagai macam kuliner di sekitar lokasi. Kalian akan merasakan pengalaman yang baru.</p>
         </div>
       </Container>
     </Layout>

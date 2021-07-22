@@ -1,69 +1,13 @@
 [
    {
       "id": 1,
-      "thumbnail": "/thumbnail-2.png",
-      "category": "Internet",
-      "date": "June 28, 2021",
-      "title": "How to design a product that can grow itself 10x in year",
-      "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
-      "authorName": "Jenny Wilson",
-      "authorJob": "Front-end Engineer",
-      "authorAvatar": "/author-1.png"
-   },
-   {
-      "id": 2,
-      "thumbnail": "/thumbnail-3.png",
-      "category": "9 to 5",
-      "date": "June 22, 2021",
-      "title": "The More Important the Work, the More Important the Rest",
-      "shortDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+      "thumbnail": "/thumbnail-1.jpg",
+      "category": "Diary",
+      "date": "July 22, 2021",
+      "title": "Tempat favorit menikmati gemerlap malam Jogja",
+      "shortDescription": "Gemerlap lampu kota dari ketinggian, lengkap rasanya dengan sajian kudapan dan segelas kopi. Disinilah tempat syahdu menghabiskan malam bersama.",
+      "longDescription": "Bukit piyungan berada di Kecamatan Piyungan, Kabupaten Bantul kurang lebih 30 menit dari kota Jogja.\n\nBeberapa pekan sekali, biasa saya dan rekan - rekan menghabiskan malam disini untuk pelepas penat setelah sepekan bekerja untuk menikmati pemandangan memukau dari kota Jogja yang penuh dengan lampu-lampu yang bersinar di setiapnya dari ketinggian, akan menjadi lebih terasa sempurna lagi ketika ditemani dengan segelas kopi, kudapan dan tawa canda bersama.\n\nIni juga bisa dijadikan sebagai sarana tadabur alam untuk lebih mengenal, menghayati, merenungi kebesaran Allah, sehingga dapat menghadirkan rasa syukur atas karuania-Nya serta dapat membantu menjaga melestarikan keberadaannya.\n\nSengaja kami memilih hari - hari diluar weekend untuk menghindari keramaian, biar lebih khidmat dan biar lebih santai ya kan. Disini banyak tersedia cafe bernuansa outdoor, tenang harganya cukup terjangkau kok.\n\nBagi teman - teman yang membaca ini, kalian harus coba kesini. Melewatkan malam dengan pemandangan malam kota Jogja, gemerlap bintang - bintang di angkasa sambil menikmati berbagai macam kuliner di sekitar lokasi. Kalian akan merasakan pengalaman yang baru.",
       "authorName": "Yosada Dede",
-      "authorJob": "Front-end Engineer",
-      "authorAvatar": "/author-1.png"
-   },
-   {
-      "id": 3,
-      "thumbnail": "/thumbnail-4.png",
-      "category": "Inspirations",
-      "date": "June 18, 2021",
-      "title": "Email Love - Email Inspiration, Templates and Discovery",
-      "shortDescription": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
-      "authorName": "Yosada Dede",
-      "authorJob": "Front-end Engineer",
-      "authorAvatar": "/author-1.png"
-   },
-   {
-      "id": 4,
-      "thumbnail": "/thumbnail-5.png",
-      "category": "Internet",
-      "date": "June 28, 2021",
-      "title": "How to design a product that can grow itself 10x in year",
-      "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
-      "authorName": "Yosada Dede",
-      "authorJob": "Front-end Engineer",
-      "authorAvatar": "/author-1.png"
-   },
-   {
-      "id": 5,
-      "thumbnail": "/thumbnail-6.png",
-      "category": "9 to 5",
-      "date": "June 22, 2021",
-      "title": "The More Important the Work, the More Important the Rest",
-      "shortDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
-      "authorName": "Yosada Dede",
-      "authorJob": "Front-end Engineer",
-      "authorAvatar": "/author-1.png"
-   },
-   {
-      "id": 6,
-      "thumbnail": "/thumbnail-7.png",
-      "category": "Programming",
-      "date": "July 13, 2021",
-      "title": "Mobile Development, Roadmap belajar React Native",
-      "shortDescription": "Kumpulan sumber daya terbaik terkait React Native yang dibuat oleh anggota komunitas React native developer yang berbakat dan membaginya untuk Anda.",
-      "description": "1. Pelajari JavaScript: Sumber Gratis & Berbayar Seperti yang kemungkinan besar sudah Anda ketahui, karena sesuai dengan namanya, React Native Developer bertumpu pada kerangka React. Oleh karena itu, sebelum Anda menceburkan diri ke area pembelajaran React Native yang luas ini, sangat penting bagi Anda untuk mengenal React. Satu hal yang utama, sulit untuk belajar React tanpa mengetahui JavaScript. Oleh sebab itu, kami merekomendasikan Anda untuk mempelajari dasar-dasar JavaScript terlebih dahulu. Hal-hal akan menjadi jauh lebih jelas setelah Anda mempelajari sebagian besar seluk beluk JavaScript.",
-      "authorName": "Yosada Dede",
-      "authorJob": "Front-end Engineer",
       "authorAvatar": "/author-1.png"
    }
 ]

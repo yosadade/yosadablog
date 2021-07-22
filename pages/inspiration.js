@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <title>Inspirations &mdash; Yosadade</title>
       </Head>
-      <Container>
+      {/* <Container>
       <SectionHeader>Inspiration</SectionHeader>
         <div className="mb-6"></div>
         <FeaturedPost 
@@ -36,7 +36,7 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </Container>
+      </Container> */}
     </Layout>
   )
 }
